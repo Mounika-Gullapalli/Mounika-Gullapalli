@@ -18,8 +18,8 @@ How to reach me: gullapallimounika29@gmail.com
 If you're using Git on your local machine, run:  
 
 ```bash
-git clone https://github.com/your-username/your-username.git
-cd your-username
+git clone https://github.com/Mounika-Gullapalli/Mounika-Gullapalli.git
+cd Mounika-Gullapalli
 nano README.md  # Edit the file and save
 git add README.md
 git commit -m "Initial GitHub Profile README"
