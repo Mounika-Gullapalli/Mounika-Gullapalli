@@ -8,8 +8,14 @@ How to reach me: gullapallimounika29@gmail.com
 
 ## 🛠️ Technical Skills  
 
-- **Programming Languages:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLTK), PySpark  
-- **Big Data Platforms:** Azure Databricks (Apache Spark), Google BigQuery, SAP Data Extraction  
-- **Azure Services:** Data Factory, Data Lake, Synapse Analytics, Power BI, DevOps  
-- **Visualization & Office Tools:** Power BI, Excel (XLOOKUP, PivotTables, Charts, Formulas)  
+- **Programming Languages:** SQL, Python, R, Scala
+- **Packages:** NumPy, Pandas, Matplotlib, SciPy, ggplot2, Scikit-learn, seaborn, Sklearn 
+- **Big Data Platforms:** Hadoop, Hive, SQOOP, Apache Spark (Pyspark, SparkSQL, Spark Streaming, Delta Lake), Kafka, Flink, HDFS, HBase, Apache Oozie, Snowflake.
+- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB  
+- **Cloud Services:** Azure (Data Lake, Data Factory, Synapse, DevOps), AWS (S3, Lambda, VPC)  
+- **Data Visualization Tools:** Power BI, Tableau
+- **ETL Tools:** SSIS, Informatica, Talend
+- **Version Control:** GitHub, Azure DevOps Git
+- **Project Management:** Agile, Jira, ServiceNow, Confluence 
 - **Core Strengths:** Growth Mindset, Resilience, Curiosity, Problem-Solving, Critical Thinking, Attention to Detail  
+
