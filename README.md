@@ -14,14 +14,6 @@ How to reach me: gullapallimounika29@gmail.com
 - **Visualization & Office Tools:** Power BI, Excel (XLOOKUP, PivotTables, Charts, Formulas)  
 - **Core Strengths:** Growth Mindset, Resilience, Curiosity, Problem-Solving, Critical Thinking, Attention to Detail  
 
-## 📌 Pinned Projects  
-
-🔹 [**Azure ETL Pipeline**](https://github.com/your-username/azure-etl-pipeline) - Extracting & transforming data from SAP, BigQuery, and SFTP using Azure Data Factory.  
-🔹 [**BigQuery Data Analysis**](https://github.com/your-username/bigquery-analysis) - SQL-based analysis on Google BigQuery datasets.  
-🔹 [**Power BI Dashboards**](https://github.com/your-username/powerbi-sales-dashboard) - Interactive reports on sales data.  
-
----
-
 ### **3. Commit & Push the Changes**  
 If you're using Git on your local machine, run:  
 
